@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[Download APK](https://github.com/1hanzla100/flutter-weather/releases)
+[Download APK](https://github.com/janapsp/MyTask/blob/master/build/app/outputs/apk/release/app-release.apk)
 
 ## Getting Started
 
